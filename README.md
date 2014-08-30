@@ -1,0 +1,4 @@
+FDesktop
+========
+
+For desktop applications
